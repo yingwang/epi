@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3C60E8DE1F07A8E4006DC5A4 /* c9q1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = c9q1.h; sourceTree = "<group>"; };
 		3CBD0D0B1F06F7F000C6E3D2 /* epi */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = epi; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CBD0D0E1F06F7F000C6E3D2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = epi/main.cpp; sourceTree = "<group>"; };
 		3CBD0D161F06F88F00C6E3D2 /* c9q1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = c9q1.cpp; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				3CBD0D161F06F88F00C6E3D2 /* c9q1.cpp */,
+				3C60E8DE1F07A8E4006DC5A4 /* c9q1.h */,
 			);
 			name = c9_stacks_queues;
 			path = epi;
@@ -261,6 +263,7 @@
 				3CBD0D141F06F7F000C6E3D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

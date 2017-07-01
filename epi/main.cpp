@@ -6,10 +6,9 @@
 //  Copyright © 2017 Ying. All rights reserved.
 //
 
-#include <iostream>
+#include "c9q1.h"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    (new MaxStack())->Test();
     return 0;
 }
