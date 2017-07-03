@@ -7,8 +7,12 @@
 //
 
 #include "c9q1.h"
+#include "c9q2.hpp"
 
 int main(int argc, const char * argv[]) {
-    (new MaxStack())->Test();
+    //c9q1
+    //MaxStack().Test();
+    //c9q2
+    c9q2().Run();
     return 0;
 }
